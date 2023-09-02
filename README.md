@@ -1,6 +1,18 @@
 # getx_mvvm
 
-A new Flutter project.
+It is a simple project following the GetX state management with complete mvvm architecture with clean code.
+
+# Repository includes
+
+Repository follows the complete mvvm architecture with GetX state mnagement. Infact it is a tutorial or  template for the application which wil be develop with Getx. Project Includes:
+
+- Simple Login UI
+- Impementing fack API from reqres.in
+- Handle App APIs Exceptiions
+- Handle APIs Response
+- Network API Services
+- Routes
+- Login(Post,Put, Delete) Api With GetX
 
 ## Getting Started
 
